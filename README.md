@@ -30,7 +30,7 @@ To install and set up the AI-Based Fraud Detection project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone (github)
+   git clone https://github.com/LohiyaH/AI-Based-Fraud-Detection
 
 ## Dataset
 
@@ -63,11 +63,11 @@ Within the scope of the project, the most used machine learning and deep learnin
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/LohiyaH/AI-Based-Fraud-Detection.git
    
 2. Navigate to the project directory:
    ```shell
-   cd YourRepository
+   cd AI-Based-Fraud-Detection
 
 4. Access the datasets by referring to their respective links provided in the table above.
 5. Download the datasets and place them in the appropriate directory within your project.
